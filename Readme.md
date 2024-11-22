@@ -22,5 +22,5 @@ Ask a question
 ### Step 3
 After that you can continue ask on same context because we have user history
 
-###Note: 
+### Note: 
 I am apology because I am having some exam on university so this project is finish in a limit of time. I have some idea to improve but cannot implement.
